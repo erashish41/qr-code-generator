@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { Card } from "./Card";
 import { QRCode } from "react-qr-code";
 
 export const QrGenerator = () => {
